@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "zadaine3\\x64\\Debug\\zadaine3.obj",
+            "outputs": [
+                "zadaine3\\x64\\Debug\\zadaine3.cpp.obj.dt.module.json",
+                "zadaine3\\x64\\Debug\\zadaine3.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
