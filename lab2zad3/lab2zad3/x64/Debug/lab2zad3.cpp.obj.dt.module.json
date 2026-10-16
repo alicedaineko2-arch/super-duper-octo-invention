@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "lab2zad3\\x64\\Debug\\lab2zad3.obj",
+            "outputs": [
+                "lab2zad3\\x64\\Debug\\lab2zad3.cpp.obj.dt.module.json",
+                "lab2zad3\\x64\\Debug\\lab2zad3.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
