@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "nameless3\\x64\\Debug\\nameless3.obj",
+            "outputs": [
+                "nameless3\\x64\\Debug\\nameless3.cpp.obj.dt.module.json",
+                "nameless3\\x64\\Debug\\nameless3.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
