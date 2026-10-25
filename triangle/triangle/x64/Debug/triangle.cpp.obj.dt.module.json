@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "triangle\\x64\\Debug\\triangle.obj",
+            "outputs": [
+                "triangle\\x64\\Debug\\triangle.cpp.obj.dt.module.json",
+                "triangle\\x64\\Debug\\triangle.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
