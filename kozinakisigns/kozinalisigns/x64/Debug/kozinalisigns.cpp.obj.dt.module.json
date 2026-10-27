@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "kozinalisigns\\x64\\Debug\\kozinalisigns.obj",
+            "outputs": [
+                "kozinalisigns\\x64\\Debug\\kozinalisigns.cpp.obj.dt.module.json",
+                "kozinalisigns\\x64\\Debug\\kozinalisigns.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
